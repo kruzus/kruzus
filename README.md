@@ -1,4 +1,3 @@
 # Welcome
 
-React, TS and some Go 👍
-
+Learning Flutter and Dart, I like Go, TS and JS. 
